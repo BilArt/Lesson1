@@ -10,7 +10,7 @@
 //Підключення скрипта
 //Структура коду
 
-//Змінні
+// Змінні
 
 // console.log(a); // ReferenceError: a is not defined
 // let a = 10;
